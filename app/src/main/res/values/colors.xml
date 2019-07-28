@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the Ask for help category -->
+    <color name="AskForHelp">#B2EBF2</color>
+
+    <!-- Background color for the family members category -->
+    <color name="Reasons">#80DEEA</color>
+
+    <!-- Background color for the colors category -->
+    <color name="Warning">#B2EBF2</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="Places">#80DEEA</color>
+
+    <color name="Profile">#B2EBF2</color>
+
+    <color name="Music">#80DEEA</color>
+
+    <color name="Safety">#B2EBF2</color>
+
+
+
+</resources>
